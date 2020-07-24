@@ -35,4 +35,4 @@ To-do list:
 Project is in progress.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [CherylTan](https://www.linkedin.com/in/cheryl-tan-72176684/) - feel free to contact me!
